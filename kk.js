@@ -58,7 +58,7 @@
          a.download = 'audio_' + document.title + '.mp4';
          a.click();
          a.href = window.URL.createObjectURL(new Blob(window.video));
-         a.download = 'aefASAA' + document.title + '.mp4';
+         a.download = 'video_' + document.title + '.mp4';
          a.click();
          window.downloadAll = 0;
          window.isComplete = 0;
