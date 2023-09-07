@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
-// @author       aefASAA 脚本处于测试阶段，功能并不稳定，但绝大多数网站可以正常运行
+// @author       aefASAA 
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
