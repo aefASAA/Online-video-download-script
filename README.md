@@ -16,7 +16,7 @@ Online video download script based on Tampermonkey</br>
 
 ## 使用方法
 打开任意视频网站，启用脚本</br>
-示例：[bilibili.com](https://www.bilibili.com/video/BV1ak4y1479b/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=a5e7e92452c5fb5e7ffe4e8360b808e5)</br>
+
 等待视频完成播放，或者缓存完成</br>
 之后浏览器会开始自动下载，部分浏览器会有下载提示，同意即可</br>
 【注意：由于本脚本采取的是缓存的方式下载，所以下载的文件由两部分组成——音频与视频】</br>
